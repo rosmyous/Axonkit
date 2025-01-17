@@ -137,4 +137,4 @@ Have questions or feedback? We’d love to hear from you! Reach out to the AxonK
 
 
 - **Twitter**: [@Axonkit](http://x.com/axonkit)
-- **Website**: [@Axonkit](http://axonkit.xyz)
+- **Website**: [Axonkit.xyz](http://axonkit.xyz)
